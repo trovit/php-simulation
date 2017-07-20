@@ -4,7 +4,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 	curl \
 	git \
 	vim \
-    nano \
     wget \
     openssh-server \
     php5-xdebug \
